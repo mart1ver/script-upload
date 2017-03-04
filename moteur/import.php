@@ -1,6 +1,6 @@
 <?php
 
-require_once('../uploadConfig.php'); 
+require_once('uploadConfig.php'); 
 
 
 $infosImg = array();
